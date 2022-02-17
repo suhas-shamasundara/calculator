@@ -21,6 +21,8 @@ Operands are limited to two.
 * Download code from [here](https://github.com/suhas-shamasundara/calculator.git)
 * Open the calculator.html or calculator_all_minified.html in a Web Browser.
 * Use Mouse to click on the buttons OR type from keyboard to calculate 😊
+* Clicking on `=` or keying in `Enter` multiple times will repeat the operation using the result and the second operand.
+* After the result is shown at the least once, use `1` and `=`/`Enter` to toggle between the final operation expression and the result.
 
 ## Configuration
 * Calculator() call sets up the binary calculator
